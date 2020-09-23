@@ -1,0 +1,11 @@
+2. "Other links" should be a hyperlink that extends when you click it with links to spotify, yt..maybe even ttb ??
+
+3. Add something about work with Dan and undergrad in maths
+maybe underneath the github / scholar links?
+and then link to CV
+
+4. add a contact link
+
+5. CV (plain text?)
+
+6. MSI fellow?
