@@ -1,3 +1,5 @@
+is gitignore working now?
+
 work out how to use git ignore and what to do about the media directory
 work out how to actually make website go live!
 
