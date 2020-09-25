@@ -1,5 +1,5 @@
 .main {
-    width: 350px;
+    width: 510px;
     padding: 20px;
     padding-left: 50px;
     margin-left: 70px;
@@ -9,8 +9,8 @@
 
 .second {
     position: absolute;
-    top: 50px;
-    left: 520px;
+    top: 70px;
+    left: 540px;
 }
 
 p {
@@ -22,14 +22,14 @@ p {
 
 h1 {
     font-family: Courier New;
-    font-size: 30px;
+    font-size: 50px;
     font-weight: normal;
     color: white;
 }
 
 footer {
     font-family: Courier New;
-    font-size: 15px;
+    font-size: 10px;
     font-weight: normal;
     color: white;
 }
